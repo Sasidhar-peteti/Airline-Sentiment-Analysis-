@@ -19,7 +19,7 @@ Processed **5M+ airline reviews** using **Hadoop and Hive**, improving query eff
    - Improved **query performance by 50%** through optimized indexing and partitioning.
 
 2. **Sentiment Classification**:
-   - Leveraged **Spark (MLlib, PySpark)** to build an **88% accurate** sentiment classification model.
+   - Leveraged Spark to build an **88% accurate** sentiment classification model.
    - Classified tweets into **positive, neutral, and negative** categories.
    - Identified key sentiment drivers such as **flight delays, poor customer service, and cancellations**.
 
